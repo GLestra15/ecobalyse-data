@@ -25809,7 +25809,7 @@
     "unit": "kg"
   },
   {
-    "activityName": "Oat grain {RoW}| oat production | Cut-off, U - Adapted from Ecoinvent U",
+    "activityName": "Oat grain, national average, animal feed, at farm gate {FR} U",
     "alias": "oats-fr",
     "categories": [
       "ingredient"
